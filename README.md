@@ -8,6 +8,11 @@ Berikut ini adalah beberapa potongan gambar disetiap sectionnya
 
 <img src="images/skill.png">
 
-<img src="images/experience.png">
-
 <img src="images/contact.png">
+
+
+==============================================================================================================================================================
+
+Dan ini adalah tampilan mobile
+
+<img src="images/mh.png">  <img src="images/mm.png">  <img src="images/mc.png">
